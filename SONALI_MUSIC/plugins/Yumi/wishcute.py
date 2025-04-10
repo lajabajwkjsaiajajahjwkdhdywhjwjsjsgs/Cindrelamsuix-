@@ -4,7 +4,7 @@ import random
 import requests
 from SONALI_MUSIC import app 
 
-SUPPORT_CHAT = "THE_INCRICIBLE"
+SUPPORT_CHAT = "TEAM_BADNAM_BOTS"
 
 @app.on_message(filters.command("wish"))
 async def wish(_, m):
