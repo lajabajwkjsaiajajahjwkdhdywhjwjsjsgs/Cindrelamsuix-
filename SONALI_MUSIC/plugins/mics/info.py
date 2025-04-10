@@ -73,7 +73,7 @@ INFO_TEXT = """
 ❍ ᴅᴄ ɪᴅ ▷ {}
 ❍ ʙɪᴏ ▷ {}
 
-❖ ᴍᴀᴅᴇ ʙʏ  ➛ [ᴘᴜʀᴠɪ-ʙᴏᴛs](https://t.me/PURVI_SUPPORT)
+❖ ᴍᴀᴅᴇ ʙʏ  ➛ [ᴋʀɪᴛɪ-ʙᴏᴛs](https://t.me/KRITI_UPDATE)
 ▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬▭
 
 """
